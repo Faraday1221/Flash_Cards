@@ -1,0 +1,14 @@
+# a template layout for the questions to be loaded into flash_cards.py
+# replace 'q1' with a topic name, topics should be uniquely named
+# 'q' is the question 'a' is the answer
+# use > for a single line answer and | for a multiline answer
+
+q1:
+    q: question 1
+    a: answer 1
+q2:
+    q: question 2
+    a: answer 2
+q3:
+    q: question 3
+    a: answer 3
