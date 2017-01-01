@@ -59,7 +59,6 @@ def ask_questions(all_topics):
             # show the answer
             print('\n'*3,data[topic]['a'])
             status = prompt_user('\n\nDid you answer correctly? Press "y" or "n"\n').strip().lower()
-            # status = str(input('\n\nDid you answer correctly? Press "y" or "n"\n')).strip().lower()
 
             # ask if the question should be asked again
             if status == "y":
@@ -81,7 +80,6 @@ def ask_questions(all_topics):
         else:
             print('\n\n\nAll questions have been asked at least once.')
             kill = prompt_user('\nWould you like to stop now? Press "y" or "n"\n').strip().lower()
-            # kill = str(input('Would you like to stop now? Press "y" or "n"\n')).strip().lower()
             if kill == "y":
                 print(status)
                 return
