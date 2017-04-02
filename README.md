@@ -24,6 +24,10 @@ The program is very simple and performs as follows:
 - provides a summary of questions asked and correct answers
 
 
+### Simple Demo: 3 questions asked and answered
+![Demo gif](https://github.com/Faraday1221/Flash_Cards/blob/master/demo.gif)
+
+
 ### Version
 This should be compatible with python 2 and 3 and runs just fine on OS X.
 
