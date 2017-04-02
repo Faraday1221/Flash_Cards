@@ -25,7 +25,7 @@ The program is very simple and performs as follows:
 
 
 ### Simple Demo: 3 questions asked and answered
-![Demo gif](https://github.com/Faraday1221/Flash_Cards/blob/master/demo.gif)
+![Demo gif](https://github.com/Faraday1221/Flash_Cards/blob/master/demo.gif?raw=True)
 
 
 ### Version
